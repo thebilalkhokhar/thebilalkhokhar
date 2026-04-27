@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Bilal Ahmad!
 
-### Full-Stack Developer | AI & LLM Enthusiast | Software Engineer
+### AI Software Engineer | Full-Stack Developer | LLM & RAG Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+%2F+PERN+Expert;AI+Integration+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+LLM+Engineer;LangChain+%2F+LangGraph+Developer;RAG+Pipeline+Builder;Full-Stack+%28MERN+%2B+FastAPI%29;Building+Scalable+AI+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -12,52 +12,113 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineering graduate** from the **University of the Punjab** with a **CGPA of 3.30**.  
-I specialize in building **high-performance web applications** and integrating **modern AI & LLM technologies**.
+I am a **Software Engineer** with hands-on experience in **AI systems, LLM applications, and full-stack development**.  
+I specialize in building **scalable, real-time applications** powered by **LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)**.
 
-**Current Focus:**  
-Intern at **Datics AI**, working on **LLM Applications, LangChain & LangGraph**.
-
----
-
-## 🛠️ Technical Arsenal
-
-| Category           | Technologies                        |
-| ------------------ | ----------------------------------- |
-| **Frontend**       | React, Next.js, Tailwind CSS, Redux |
-| **Backend**        | Node.js, Express.js, Python         |
-| **Database**       | PostgreSQL, MongoDB                 |
-| **DevOps / Tools** | AWS, Docker, Git, Postman           |
+🎯 **Current Role:**  
+AI Software Engineer Intern at **Datics AI** — working on **multi-model LLM systems, RAG pipelines, and real-time AI streaming applications**.
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Core Expertise
 
-### 🍔 Multi-Restaurant Food Platform
+- 🤖 **AI & LLMs:** LangChain, LangGraph, RAG, Prompt Engineering  
+- ⚡ **Real-Time Systems:** SSE Streaming, Low-latency AI responses  
+- 🧩 **Multi-Model Architectures:** Groq (Llama 3.3) + Gemini  
+- 🗂️ **Vector Search:** FAISS, HuggingFace Embeddings  
+- 🌐 **Full-Stack Development:** MERN, Next.js, FastAPI  
+
+---
+
+## 🛠️ Technical Stack
+
+| Category        | Technologies |
+|----------------|------------|
+| **Languages**  | JavaScript, TypeScript, Python |
+| **Frontend**   | React, Next.js, Tailwind CSS |
+| **Backend**    | Node.js, Express.js, FastAPI |
+| **Databases**  | PostgreSQL, MongoDB |
+| **AI Stack**   | LangChain, LangGraph, FAISS, ChromaDB |
+| **Cloud/Tools**| AWS (EC2, IAM, SES), Git, Nginx, Postman |
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot with RAG (LangChain + LangGraph)
+
+- Built a **high-performance AI chatbot** with **Next.js 15 + FastAPI**
+- Implemented **persistent RAG pipeline** using FAISS + HuggingFace embeddings
+- Designed **multi-model system** (Groq Llama 3.3 + Gemini 3.1)
+- Real-time **SSE streaming with optimized UI rendering**
+- Automated **LLM fallback system** for 100% uptime
+
+---
+
+### 🍔 Multi-Restaurant Food Ordering Platform
 
 🔗 https://github.com/thebilalkhokhar/EATSONLINE-DEPLOY
 
-- MERN stack application
-- Stripe Payments
-- Real-time order tracking
-- Admin Dashboard
+- Scalable **MERN stack platform**
+- Integrated **Stripe payments**
+- Real-time **order tracking system**
+- Advanced **Admin Dashboard**
 
-### 🤝 DevTinder – Developer Networking Hub
+---
+
+### 🤝 DevTinder – Developer Networking Platform
 
 🔗 https://github.com/thebilalkhokhar/DevTinder-Backend
 
-- Real-time chat with Socket.io
-- Email notifications via AWS SES
-- Deployed on AWS EC2
+- Real-time communication using **Socket.io**
+- Automated email notifications via **AWS SES**
+- Deployed on **AWS EC2**
 
-### 💼 Enterprise Job Portal
+---
+
+### 💼 Full-Stack Job Portal System
 
 🔗 https://github.com/thebilalkhokhar/JobPortal-PERN
 
-- Built using PERN stack
-- Role-Based Access Control (RBAC)
-- Audit Logs
-- Developed at **Devsinc**
+- Built using **PERN stack**
+- Implemented **RBAC & audit logging**
+- Advanced filtering and scalable architecture
+- Developed during internship at **Devsinc**
+
+---
+
+## 💼 Experience
+
+### 🧠 AI Software Engineer Intern — Datics AI *(Jan 2026 – Present)*
+
+- Built **multi-model LLM orchestration systems**
+- Developed **persistent RAG pipelines with FAISS**
+- Designed **real-time streaming APIs using FastAPI + SSE**
+- Managed **stateful AI chat systems with MongoDB**
+
+### 💻 Software Engineer Intern — Devsinc *(Nov 2025 – Dec 2025)*
+
+- Developed full-stack **Job Portal (Node.js + React + PostgreSQL)**
+- Implemented **RBAC and audit logging**
+- Used **Redux Toolkit + Cloudinary integration**
+
+---
+
+## 🎓 Education
+
+**BS Software Engineering**  
+University of the Punjab  
+CGPA: 3.30 / 4.0 *(2021 – 2025)*
+
+---
+
+## 📜 Certifications
+
+- Generative AI & Prompt Engineering (IBM)
+- Agentic AI (LangChain + LangGraph)
+- RAG Applications & AI Agents
+- Backend (Node.js), Frontend (React)
+- Cloud & Web Development (IBM, Meta, Packt)
 
 ---
 
@@ -77,14 +138,8 @@ Intern at **Datics AI**, working on **LLM Applications, LangChain & LangGraph**.
 
 ## 📫 Let's Connect
 
-<div align="center">
+- 📧 bilalkhokhar228@gmail.com  
+- 🔗 https://linkedin.com/in/thebilalkhokhar  
+- 💻 https://github.com/thebilalkhokhar  
 
-<a href="https://linkedin.com/in/thebilalkhokhar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bilalkhokhar228@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+---
